@@ -1,9 +1,4 @@
-:root {
-    
-}
-
 body {
-    background-color: oldlace;
     font-family: "Poppins", sans-serif;
 }
 
@@ -24,6 +19,7 @@ p {
 }
 
 .hero {
+background-color: oldlace;
 text-align: center;
 padding: 160px 20px;
 
@@ -45,6 +41,11 @@ padding: 160px 20px;
     line-height: 2;
 }
 
+.hero + div {
+  text-align: center;
+  margin-top: 20px; 
+}
+
 .btn-branding {
     background: #ff894c;
     border-radius: 4px;
@@ -52,14 +53,4 @@ padding: 160px 20px;
     font-size: 18px;
     line-height: 27px;
     padding: 15px 30px;
-}
-
-.btn {
-    display: inline-block;
-    font-weight: 400px;
-    text-align: center;
-    text-decoration: none;
-    vertical-align: middle;
-    cursor: pointer;
-   
 }
