@@ -11,10 +11,12 @@ h1, h2 {
 
 h1 {
     font-size: 96px;
+    font-family: "Playfair Display", serif;
 }
 
 h2 {
     font-size: 64px;
+    font-family: "Poppins", sans-serif;
 }
 
 p {
