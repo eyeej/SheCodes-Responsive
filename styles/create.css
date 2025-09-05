@@ -48,33 +48,45 @@ padding: 160px 20px;
 }
 
 .btn-branding {
-    background: #6c63ff;
+    background: white;
     border-radius: 4px;
-    color: white;
+    padding: 15px 15px;
+    color: #385170;
     font-size: 18px;
     line-height: 27px;
-    padding: 15px 30px;
-}
+    text-decoration: none;
+    border: 1px solid #385170;
 
+}
 .btn-branding-outline {
-    color:#6c63ff;
-    border: 1px solid #6c63ff;
+    color: #385170;
+    border: 1px solid #385170;
     border-radius: 4px;
     font-size: 18px;
     line-height: 27px;
-    padding: 15px 30px; 
+    padding: 15px 15px; 
 }
 
 .secondary-link {
     background: white;
     border-radius: 4px;
-    color: #6c63ff;
+    padding: 15px 15px;
+    color: #385170;
     font-size: 18px;
     line-height: 27px;
-    padding: 20px 40px;
     text-decoration: none;
-    border: 1px solid #6c63ff;
+    border: 1px solid #385170;
 }
+
+.secondary-link-outline {
+    color: #385170;
+    border: 1px solid #385170;
+    border-radius: 4px;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 15px 15px; 
+}
+
 
 
 .contact-me {
