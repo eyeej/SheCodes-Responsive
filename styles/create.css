@@ -65,9 +65,22 @@ padding: 160px 20px;
     padding: 15px 30px; 
 }
 
+.secondary-link {
+    background: white;
+    border-radius: 4px;
+    color: #6c63ff;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 20px 40px;
+    text-decoration: none;
+    border: 1px solid #6c63ff;
+}
+
+
 .contact-me {
     text-align:center;
 }
+
 
 @media (max-width: 960px) {
     h1 {
