@@ -87,8 +87,6 @@ padding: 160px 20px;
     padding: 15px 15px; 
 }
 
-
-
 .contact-me {
     text-align:center;
 }
@@ -104,6 +102,11 @@ padding: 160px 20px;
     }
     .hero {
         padding: 80px 20px;
+    }
+
+    .about-section {
+        text-align: center;
+        padding: 0;
     }
     .project-description {
     padding: 0;
